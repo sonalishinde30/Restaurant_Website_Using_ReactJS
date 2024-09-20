@@ -8,7 +8,8 @@ const About = () => {
       <Box
         sx={{
           p: 5, // Add padding of 50
-          backgroundColor: "#f5f5f5", // Set grey background color
+          backgroundColor: "#f5f5f5",
+         // Set grey background color
           textAlign: "center",
           "& h4": {
             fontWeight: "bold",
